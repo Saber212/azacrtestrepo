@@ -1,0 +1,14 @@
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/bin/Debug/net8.0/azacrtestrepo
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/bin/Debug/net8.0/azacrtestrepo.deps.json
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/bin/Debug/net8.0/azacrtestrepo.runtimeconfig.json
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/bin/Debug/net8.0/azacrtestrepo.dll
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/bin/Debug/net8.0/azacrtestrepo.pdb
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.AssemblyInfoInputs.cache
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.AssemblyInfo.cs
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.csproj.CoreCompileInputs.cache
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.dll
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/refint/azacrtestrepo.dll
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.pdb
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/azacrtestrepo.genruntimeconfig.cache
+/Users/saber.samadi/Desktop/Azure 204/azacrtestrepo/obj/Debug/net8.0/ref/azacrtestrepo.dll
